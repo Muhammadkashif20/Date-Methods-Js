@@ -55,17 +55,20 @@
 
 // //Q7
 
-// let ampm =new Date()
-// let time=ampm.getHours()
-// console.log(time);
-// if(time<=12){
-//     alert('Its Am')
-// }
-// else{
-//     alert('Its Pm')
-    
-// }
-// document.write('<br>')
+/* {
+    let now=new Date()
+    let hours=now.getHours()
+    let ampm;
+    console.log(hours);
+    if(hours>12){
+            console.log(ampm='Pm');
+    }
+    else{
+            console.log(ampm='Am');
+    }
+}
+ */
+
 
 //Q8
 
